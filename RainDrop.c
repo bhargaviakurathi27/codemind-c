@@ -13,7 +13,7 @@ int main()
     }
     else if(n%3==0&&n%7==0)
     {
-        printf("PlingPlong");
+    printf("PlingPlong");
     }
     else if(n%3==0)
     {
@@ -29,6 +29,6 @@ int main()
     }
     else
     {
-        printf("%d",n);
+    printf("%d",n);
     }
 }
